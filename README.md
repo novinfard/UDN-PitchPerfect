@@ -1,5 +1,3 @@
-Pitch Perfect - Voice Record with Sound Effect iOS Application
-
 # Pitch Perfect
 The Pitch Perfect app allows users to record a sound using the device's microphone. It then allows users to play the recorded sound back with six different sound modulations.
 
